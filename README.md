@@ -1,90 +1,59 @@
-# Hello Microverse Repository
+<a name="readme-top">Project 1</a>
 
-## Table of Contents
+<div align="center">
+
+  <h3><b>Hello Microverse!</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-## 📖 About the Project
+<!-- PROJECT DESCRIPTION -->
 
-Welcome to the Hello Microverse Repository! This project focuses on setting up a basic repository to reinforce understanding of essential tools and best practices covered in previous steps.
+# 📖 [Hello Microverse!] <a name="about-project"></a>
 
-### 🛠 Built With
+> **Hello Microverse!** Welcome to the Hello Microverse Repository! This project focuses on setting up a basic repository to reinforce understanding of essential tools and best practices covered in previous steps.
 
-#### Tech Stack
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
-#### Key Features
+### Tech Stack <a name="tech-stack">EL MEHDI AHMIDOU</a>
 
-### 🚀 Live Demo
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">Microverse</a></li>
+  </ul>
+</details>
 
-## 💻 Getting Started
+## 👥 Authors <a name="authors"></a>
 
-### Setup
+> EL MEHDI AHMIDOU
 
-- Clone the repository: `git clone <repository-url>`
-- Move into the project directory: `cd hello-microverse-repo`
+👤 **Author1**
 
-### Prerequisites
+- GitHub: [@Jahmidou09](https://github.com/ahmidou09)
+- Twitter: [@el_ahmidou](https://twitter.com/el_ahmidou)
+- LinkedIn: [el mehdi ahmidou](https://www.linkedin.com/in/el-mehdi-ahmidou-312590125/)
 
--
+## 🤝 Contributing <a name="contributing"></a>
 
-### Install
+Contributions, issues, and feature requests are welcome!
 
--
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Usage
+## 📝 License <a name="license"></a>
 
--
+This project is [MIT](./LICENSE) licensed.
 
-### Run tests
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
--
-
-### Deployment
-
--
-
-## 👥 Authors
-
-- EL MEHDI AHMIDOU
-
-## 🔭 Future Features
-
--
-
-## 🤝 Contributing
-
--
-
-## ⭐️ Show your support
-
--
-
-## 🙏 Acknowledgements
-
--
-
-## ❓ FAQ (OPTIONAL)
-
--
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
